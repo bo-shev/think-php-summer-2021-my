@@ -8,6 +8,6 @@ $people = [
   [ "name" => "Vladyslav Cherniuk", "Role": "Student" ],
   [ "name" => "Oleg Savenok", "Role": "Student" ],
   [ "name" => "Yehor Hrytsenko",   "Role": "Student"],
-  [ "conflicted change" ],
+  [ "name" => "Karlova Lesia", "Role": "Student" ],
 ];
 
