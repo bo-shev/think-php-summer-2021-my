@@ -1,6 +1,6 @@
 <?php
 
 $people = [
-  [ "name" => "Bogdan Onischenko", "Role": "Speaker" ],
+  [ "name" => "Pavel Butenko", "Role": "Student" ],
 ];
 
