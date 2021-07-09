@@ -10,5 +10,6 @@ $people = [
   [ "name" => "Yehor Hrytsenko",   "Role": "Student"],
   [ "name" => "Karlova Lesia", "Role": "Student" ],
   [ "name" => "Helen Volovyk",   "Role": "Student"],
+  [ "name" => "Bohdan Shevchenko",   "Role": "Student"],
 ];
 
